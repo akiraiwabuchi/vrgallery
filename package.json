@@ -1,0 +1,12 @@
+{
+  "name": "vrgallery",
+  "version": "0.1",
+  "scripts": {
+    "bs": "browser-sync -w --open external --https"
+  },
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "browser-sync": "^2.26.12"
+  }
+}
